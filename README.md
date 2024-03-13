@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm atembras💻​🖥️​</h1>
 <h3 align="center">👨‍💻A passionate frontend developer from Spain👨‍💻</h3>
 
+![Blue Futuristic Technology LinkedIn Background Photo](https://github.com/Asein220/Asein220/assets/146396487/9fd5cd87-b104-4bae-9b79-b79b5a7a4ca1)
+
 
 ## 🧑​​About me
 ```C
