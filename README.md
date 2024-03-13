@@ -5,9 +5,10 @@ const atembras = {
   code: [C, C++, HTML, Python],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
 }
-...
+```
+[![Asein220 GitHub stats](https://github-readme-stats.vercel.app/api?username=Asein220&count_private=true&show_icons=true&theme=dark&title_color=COLOR1&text_color=red)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Asein220 GitHub stats](https://github-readme-stats.vercel.app/api?username=atembras)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asein220)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Asein220/Asein220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
