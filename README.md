@@ -9,7 +9,7 @@
 const atembras = {
   pronouns: "he" | "his",
   code: [C, C++, HTML, Python, Shell],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [Osint, Git, Brew, Tor, Linux, MaxOS, Virtualbox],
 }
 ```
 - 💼​ I’m currently studing in the course **42 Málaga**
